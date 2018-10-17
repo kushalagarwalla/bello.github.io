@@ -1,0 +1,210 @@
+html{
+    height: 100%;
+    
+}
+.special{
+    text-decoration-color: azure;
+    line-height= 3;
+    text-decoration: underline;
+}
+.text{
+    text-align: center;
+    
+}
+.head{
+    padding: 3%
+    
+}
+.menu{
+   color: #BC6A45;
+    opacity: 0.3;
+}
+h2{
+    color:dimgray;
+}
+h1{
+    color: antiquewhite;
+    font-family:Russo One;
+    line-height: 3;
+    text-align: center;
+}
+p{
+    color: dimgray;
+    font-family: kanit;
+    font-size: 23px;
+}
+.glyphicon{
+    color: dimgray;
+}
+.navbar-default{
+    opacity: 0.8;
+}
+.navbar-default .navbar-brand{
+    color: black;
+}
+
+body{
+    background: url("agriculture-cooking-delicious-257794.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: catamaran;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.center{
+    text-align: center;
+    
+}
+.thumb{
+    
+}
+
+
+h2 > span{
+    color: dimgray;
+    opacity: 0.8;
+}
+
+
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255,255, 0.7);
+    padding: 14px 14px 0;
+    
+}
+
+#login.social-button{
+ 
+    margin: 12px 0
+}
+
+.btn-fb{
+    color: #fff;
+    background-color: #496ebc;
+}
+
+.btn-tw{
+    color: #fff;
+    background-color: #55acee;
+}
+
+
+
+
+@media (max-width:768px){
+    h1{ 
+        background-color: #449d44;
+    }
+    
+    h2{
+        background-color: #449d44;
+    }
+    
+}
+
+
+@media(max-width:768px){
+    h1{
+        background-color: skyblue;
+        opacity: 0.8;
+    }
+}
+.column{
+        padding: 3px;
+    }
+    .pizza:hover{
+        opacity: 0.85;  
+    }
+    .pasta:hover{
+        opacity: 0.85;
+    }
+    .burger:hover{
+        opacity: 0.85;
+    }
+    .dessert:hover{
+        opacity: 0.85;
+    }
+    .sides:hover{
+        opacity: 0.85;
+    }
+    .beverage:hover{
+        opacity: 0.85;
+    }
+    .pizza_text {
+    position: absolute;
+    bottom: 2%;
+    left: 20%; 
+    color: #160F09;
+    opacity: 1;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;    
+    }
+    .pizza:hover .pizza_text{
+        color: goldenrod;
+    }
+    .pasta_text {
+    position: absolute;
+    bottom: 2%;
+    left: 42%; 
+    color: #160F09;
+    opacity: 1;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    }
+    .pasta:hover .pasta_text{
+        color: goldenrod;
+    }
+    .burger_text {
+    position: absolute;
+    bottom: 2%;
+    left: 66%; 
+    color: #160F09;
+    opacity: 1;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    }
+    .burger:hover .burger_text{
+        color: goldenrod;
+    }
+    .dessert_text {
+    position: absolute;
+    bottom: 2%;
+    left: 21%; 
+    color: #160F09;
+    opacity: 1;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    }
+    .dessert:hover .dessert_text{
+        color: goldenrod;
+    }
+    .sides_text {
+    position: absolute;
+    bottom: 2%;
+    left: 42%; 
+    color: #160F09;
+    opacity: 1;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    }
+    .sides:hover .sides_text{
+        color: goldenrod;
+    }
+    .beverage_text {
+    position: absolute;
+    bottom: 2%;
+    left: 69%; 
+    color: #160F09;
+    opacity: 1;
+    font-size: 25px;
+    font-family: 'Lobster', cursive;
+    }
+    .beverage:hover .beverage_text{
+        color: goldenrod;
+    }
+    .column {
+    position: relative;
+    text-align: center;
+    color: white;
+}

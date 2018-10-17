@@ -1,0 +1,115 @@
+html{
+    height: 100%;
+    
+}
+.special{
+    text-decoration-color: azure;
+    line-height= 3;
+    text-decoration: underline;
+}
+.text{
+    text-align: center;
+    
+}
+.head{
+    padding: 3%
+    
+}
+h2{
+    color:antiquewhite;
+}
+.glyphicon{
+    color: black;
+}
+h1{
+    color: white;
+    font-family:Russo One;
+    line-height: 3;
+    text-align: center;
+}
+p{
+    color: antiquewhite;
+    font-family: kanit;
+    font-size: 23px;
+}
+.navbar-default{
+    opacity: 0.8;
+}
+.navbar-default .navbar-brand{
+    color: black;
+}
+
+body{
+    background: url("baked-beer-cheese-724216.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: catamaran;
+}
+
+.center{
+    text-align: center;
+    
+}
+
+
+
+h2 > span{
+    color: #D9534F;
+    opacity: 0.8;
+}
+
+
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255,255, 0.7);
+    padding: 14px 14px 0;
+    
+}
+.form-inline{
+    text-align: center;
+    line-height: 8;
+    color: white;
+    opacity: 0.85;
+}
+#login.social-button{
+ 
+    margin: 12px 0
+}
+
+.btn-fb{
+    color: #fff;
+    background-color: #496ebc;
+}
+
+.btn-tw{
+    color: #fff;
+    background-color: #55acee;
+}
+
+.menu{
+    line-height: 7;
+}
+.table{
+    backface-visibility: visible;
+    background-color: aliceblue;
+    line-height: 6;
+}
+
+@media (max-width:768px){
+    h1{ 
+        background-color: #449d44;
+    }
+    
+    h2{
+        background-color: #449d44;
+    }
+    
+}
+
+
+@media(max-width:768px){
+    h1{
+        background-color: skyblue;
+        opacity: 0.8;
+    }
+}

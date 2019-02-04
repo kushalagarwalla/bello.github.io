@@ -5,5 +5,5 @@ HTML \
 CSS \
 PHP \
 MySQL \
-\
+
 \ To see the webview of this project visit https://kushalagarwalla.github.io/bello.github.io/index.html

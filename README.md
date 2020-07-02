@@ -6,4 +6,4 @@ The project is based on a pizza restaurant where the customers can reserve a tab
 * PHP 
 * MySQL 
 
-To see the webview of this project visit https://kushalagarwalla.github.io/bello.github.io/index.html
+To see the webview of this project [Click here](https://kushalagarwalla.github.io/bello.github.io/index.html)
